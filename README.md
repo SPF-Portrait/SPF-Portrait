@@ -16,19 +16,7 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/)  &nbsp; 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-App-red)](https://huggingface.co/)  &nbsp; 
 </div>
-  
-##  🔥 Updates 
 
-- [x] **`2025/04/02`**: 🔥 We released the technical report on [arXiv](https://arxiv.org/pdf/2504.00396).
-
-##   💪 Plan 
-
-- [x] Technical report
-- [ ] Inference code
-- [ ] Pre-trained weight for inference [SDv1.5]
-- [ ] Training code
-
-（Thanks for your attention! The checkpoints and codes are coming soon!）
 
 ## 📖 Abstract 
 Fine-tuning a pre-trained Text-to-Image (T2I) model on a tailored portrait dataset is the mainstream method for text-driven customization of portrait attributes.
