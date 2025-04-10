@@ -15,7 +15,6 @@
 <br>
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/)  &nbsp; 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-App-red)](https://huggingface.co/)  &nbsp; 
-[![GitHub](https://img.shields.io/github/stars/KwaiVGI/SPF-Portrait?style=social)](https://github.com/KwaiVGI/SPF-Portrait) &nbsp; 
 </div>
   
 ##  🔥 Updates 
