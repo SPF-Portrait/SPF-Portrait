@@ -10,7 +10,7 @@
 
 
 ## 🥕 Attention
-This is the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning."
+**This is the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning."**
 
 Project Webpage: https://spf-portrait.github.io/SPF-Portrait/
 
