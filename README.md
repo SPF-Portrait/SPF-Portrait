@@ -8,17 +8,15 @@
 <sup>1</sup>Shenzhen University · <sup>2</sup>Tsinghua University · <sup>3</sup>Kuaishou Technology
 
 <sup>*</sup>Equal contributions · <sup>♰</sup> Internship at KwaiVGI, Kuaishou Technology · <sup>✉</sup>Corresponding authors 
-
-<a href='https://spf-portrait.github.io/SPF-Portrait/'><img src='https://img.shields.io/badge/Project-Page-green'></a>  &nbsp; 
-<a href='https://arxiv.org/abs/2504.00396'><img src='https://img.shields.io/badge/arXiv-SPF Portrait-red'></a>  &nbsp; 
-<a href="https://github.com/KwaiVGI/SPF-Portrait"><img src="https://img.shields.io/badge/GitHub-SPF Portrait-9E95B7?logo=github"></a> &nbsp; 
-<br>
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/)  &nbsp; 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-App-red)](https://huggingface.co/)  &nbsp; 
 </div>
 
 
-Project webpage of "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning"
+## 🥕 Attention
+This is the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning."
+Project Webpage: https://spf-portrait.github.io/SPF-Portrait/
+Arxiv: https://arxiv.org/abs/2504.00396
+Github: https://github.com/KwaiVGI/SPF-Portrait
+
 
 ## 💖 Citation
 
