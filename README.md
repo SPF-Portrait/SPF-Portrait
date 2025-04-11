@@ -1,14 +1,14 @@
 ## 🥕 Attention ！！！
 
-##This is only the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning" !!!
+## This is only the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning" !!!
 
-##If you find SPF-Portrait useful for your research, please give a 🌟 to the GitHub repo below. Thanks!
+## If you find SPF-Portrait useful for your research, please give a 🌟 to the GitHub repo below. Thanks!
 
-## **Github(code): https://github.com/KwaiVGI/SPF-Portrait **
+## Github(code): https://github.com/KwaiVGI/SPF-Portrait 
 
-##Project Webpage: https://spf-portrait.github.io/SPF-Portrait/
+## Project Webpage: https://spf-portrait.github.io/SPF-Portrait/
 
-##Arxiv: https://arxiv.org/abs/2504.00396
+## Arxiv: https://arxiv.org/abs/2504.00396
 
 
 
