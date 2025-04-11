@@ -2,7 +2,7 @@
 
   <h1 align="center">🥕 Attention ！！！</h1>
 
-<div align="center">
+
 
 
 ## This is only the Project Webpage Source file for 'SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning'!!!
