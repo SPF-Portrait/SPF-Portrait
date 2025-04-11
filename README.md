@@ -1,6 +1,6 @@
 ## 🥕 Attention ！！！
 
-## This is only the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning" !!!
+## This is only the project Webpage Source file for 'SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning'!!!
 
 ## If you find SPF-Portrait useful for your research, please give a 🌟 to the GitHub code repo below. Thanks!
 
@@ -10,7 +10,7 @@
 
 ## Arxiv: https://arxiv.org/abs/2504.00396
 
-##If you find HumanAesExpert useful for your research, welcome to cite our work using the following BibTeX:
+## If you find HumanAesExpert useful for your research, welcome to cite our work using the following BibTeX:
 
 ## 💖 Citation
 
