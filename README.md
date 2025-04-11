@@ -10,9 +10,11 @@
 
 ## Arxiv: https://arxiv.org/abs/2504.00396
 
-## If you find HumanAesExpert useful for your research, welcome to cite our work using the following BibTeX:
+
 
 ## 💖 Citation
+
+## If you find HumanAesExpert useful for your research, welcome to cite our work using the following BibTeX:
 
 ```bibtex
 @article{xian2025spf,
